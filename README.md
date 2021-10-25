@@ -1,0 +1,2 @@
+# Programming-Fundamentals
+I give you the warmest welcome to the Programming Fundamentals Course, in this course you will be able to develop your programming logic through the C language. This course is very important for your training since it will be the basis to start developing software, the The new normal has changed the paradigm of how we learn, but we will be through face-to-face sessions explaining certain topics so that you can put them into practice through a series of exercises.
